@@ -2,7 +2,9 @@
 
 - This project is a Jokes Generator app.
 
-![Name Conversion](./Image/jokesgenerator.JPG)
+![Jokes Generator](./Image/jokesgenerator.JPG)
+
+[Netlify Link](https://jokes-generator-harshcodes.netlify.app/)
 
 ---
 
